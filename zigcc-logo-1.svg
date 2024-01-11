@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 140" style="enable-background:new 0 0 500 140;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F7A41D;}
+	.st1{fill:#121212;}
+</style>
+<g>
+	<g>
+		<polygon class="st0" points="46,22 28,44 19,30 		"/>
+		<polygon shape-rendering="crispEdges" class="st0" points="46,22 33,33 28,44 22,44 22,95 31,95 20,100 12,117 0,117 0,22 		"/>
+		<polygon class="st0" points="31,95 12,117 4,106 		"/>
+	</g>
+	<g>
+		<polygon class="st0" points="56,22 62,36 37,44 		"/>
+		<polygon shape-rendering="crispEdges" class="st0" points="56,22 111,22 111,44 37,44 56,32 		"/>
+		<polygon class="st0" points="116,95 97,117 90,104 		"/>
+		<polygon shape-rendering="crispEdges" class="st0" points="116,95 100,104 97,117 42,117 42,95 		"/>
+		<polygon class="st0" points="150,0 52,117 3,140 101,22 		"/>
+	</g>
+	<g>
+		<polygon class="st0" points="141,22 140,40 122,45 		"/>
+		<polygon shape-rendering="crispEdges" class="st0" points="153,22 153,117 106,117 120,105 125,95 131,95 131,45 122,45 132,36 
+			141,22 		"/>
+		<polygon class="st0" points="125,95 130,110 106,117 		"/>
+	</g>
+</g>
+<g>
+	<rect x="164.2" y="21.7" shape-rendering="crispEdges" class="st1" width="22" height="95"/>
+	<g>
+		<polygon shape-rendering="crispEdges" class="st1" points="284.1,66.4 284.1,105.4 266.1,105.4 266.1,80.4 250.1,69.4 236.1,66.4 
+					"/>
+		<polygon class="st1" points="250.1,67.4 266.1,80.4 236.1,66.4 		"/>
+		<path class="st1" d="M284.1,105.4c-10.2,7.3-24,12-37.7,12c-29,0-51.1-20.8-51.1-48.3c0-27.3,22.5-48.1,52-48.1
+			c14.3,0,29.2,5.5,38.9,14l-13,15c-7.1-6.3-16.8-10-25.9-10c-17,0-30.2,12.9-30.2,29.5c0,16.8,13.3,29.6,30.3,29.6
+			c5.7,0,12.8-2.3,19-5.5L284.1,105.4z"/>
+	</g>
+	<path class="st1" d="M401.9,105.7c-10.2,7.3-24,12-37.7,12c-29,0-51.1-20.8-51.1-48.3c0-27.3,22.5-48.1,52-48.1
+		c14.3,0,29.2,5.5,38.9,14l-13,15c-7.1-6.3-16.8-10-25.9-10c-17,0-30.2,12.9-30.2,29.5c0,16.8,13.3,29.6,30.3,29.6
+		c5.7,0,12.8-2.3,19-5.5L401.9,105.7z"/>
+	<path class="st1" d="M494.9,106.2c-10.2,7.3-24,12-37.7,12c-29,0-51.1-20.8-51.1-48.3c0-27.3,22.5-48.1,52-48.1
+		c14.3,0,29.2,5.5,38.9,14l-13,15c-7.1-6.3-16.8-10-25.9-10c-17,0-30.2,12.9-30.2,29.5c0,16.8,13.3,29.6,30.3,29.6
+		c5.7,0,12.8-2.3,19-5.5L494.9,106.2z"/>
+</g>
+</svg>

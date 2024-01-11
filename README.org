@@ -1,0 +1,6 @@
+#+TITLE: ZigCC  logo
+#+DATE: 2024-01-11T21:49:48+0800
+#+LASTMOD: 2024-01-11T22:03:10+0800
+#+AUTHOR: Jiacai Liu
+
+https://zigcc.github.io/logo/
